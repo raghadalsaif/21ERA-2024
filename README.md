@@ -1,4 +1,6 @@
-![image](https://github.com/raghadalsaif/fver/assets/107502187/1c53518d-1817-413b-ad16-139c153d9860)
+
+<img width="1041" alt="Screenshot 1445-10-27 at 10 52 02 AM" src="https://github.com/raghadalsaif/21ERA-2024/assets/107502187/d98970a9-e8e4-4b6c-9f44-5ba5bf2b9d99">
+
 # 21ERA 
 21ERA app is in app let you acive your goals by the help of AI and LLM
 
@@ -15,6 +17,13 @@
 - LLM
 - ChatGPT
 
+# Features
+- AI generated challenges
+- Motivation Environment
+- Friendly Interface
+- Progress Tracking
+- Simplified Tasks
+
 # Demo of the App 📹
 
 
@@ -26,7 +35,8 @@ Coming soon 🔜
 
 
 
-![image](https://github.com/raghadalsaif/fver/assets/107502187/e873c757-c817-40fe-af71-5070a2c0f784)
+<img width="1060" alt="Screenshot 1445-10-27 at 10 42 42 AM" src="https://github.com/raghadalsaif/21ERA-2024/assets/107502187/9fc59db6-eed9-4fa4-947d-a0f43632c2b0">
+
 
 
 
